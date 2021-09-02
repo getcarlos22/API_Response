@@ -3,7 +3,7 @@
 <suite name="API Response Suite" verbose="1" >
     <test name="API_Response" >
         <classes>
-            <class name="test.java.com.api.ResponseTest.TestAPIResponse" />
+            <class name="test.java.com.api.TestAPIResponse" />
         </classes>
     </test>
 
