@@ -28,4 +28,4 @@ jobs:
           path: target/failsafe-reports
 
       - store_artifacts:
-          path: target/site/testNG
+          path: target/surefire-reports
