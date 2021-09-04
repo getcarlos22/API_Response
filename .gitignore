@@ -14,3 +14,7 @@ buildNumber.properties
 .idea/
 *.iml
 *.iws
+
+# Maven
+log/
+target/
